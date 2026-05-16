@@ -1,0 +1,6 @@
+venv/
+results/semantic_model.pkl
+logs/
+results/evaluation_*.csv
+__pycache__/
+*.pyc

@@ -1,0 +1,5 @@
+# config/gateway_config.yaml
+RULE_THRESHOLD: 0.25
+SEMANTIC_THRESHOLD: 0.55
+BLOCK_THRESHOLD: 0.55
+POLICY: "Mask"
