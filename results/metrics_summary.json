@@ -3,5 +3,5 @@
   "passed": 119,
   "failed": 31,
   "accuracy": 79.3,
-  "avg_latency_ms": 66.7
+  "avg_latency_ms": 124.3
 }
