@@ -112,4 +112,4 @@ This sends every test case in `data/final_eval.csv` (covering multiple languages
 
 ## Notes
 
-This was built as a final project for an Information Security course. It's a working prototype demonstrating a layered detection approach (rules + ML + PII-aware policy) rather than a production-hardened gateway — thresholds and the semantic model would need further tuning and adversarial testing before real-world deployment.
+This was built as a final project for an Artificial Intelligence course. It's a working prototype demonstrating a layered detection approach (rules + ML + PII-aware policy) rather than a production-hardened gateway — thresholds and the semantic model would need further tuning and adversarial testing before real-world deployment.
